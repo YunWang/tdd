@@ -22,5 +22,5 @@ jobs:
         export GO111MODULE="on" 
         export GOPATH="" 
         cd go
-        go test -v ./...9
+        go test -v ./...
       shell: bash
